@@ -92,7 +92,7 @@ border-radius:4px;
 font-size:0.9em;
 font-weight:normal;
 }
-.basic ol>p,span
+.basic ol>p,.basic ol>span
 {
 font-size:0.9em;
 font-weight:lighter;
