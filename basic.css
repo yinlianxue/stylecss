@@ -92,12 +92,20 @@ border-radius:4px;
 font-size:0.9em;
 font-weight:normal;
 }
-.basic ol>p,.basic ol>span
+.basic ol>p
 {
 font-size:0.9em;
 font-weight:lighter;
 color:gray;
 text-indent:1em;
+}
+.basic ol>ul
+{
+font-size:0.9em;
+font-weight:lighter;
+color:gray;
+list-style-type:square;
+list-style-position:outside;
 }
 
 
