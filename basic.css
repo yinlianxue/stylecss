@@ -91,12 +91,12 @@ border-radius:4px;
 }
 
 
-.basic ol
+.basic ol,.basic ul
 {
 font-size:0.9em;
 font-weight:normal;
 }
-.basic ol>p
+.basic ol>p,.basic ul>p
 {
 font-size:0.9em;
 font-weight:lighter;
