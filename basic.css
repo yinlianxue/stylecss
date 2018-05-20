@@ -106,7 +106,7 @@ text-indent:1em;
 #title
 {
 font-size:18px;
-font-family:"KaiTi","Microsoft YaHei",Simsun,sans-serif;
+font-family:KaiTi,"Microsoft YaHei",Simsun,sans-serif;
 text-align:center;
 }
 #title .p1
@@ -123,6 +123,7 @@ text-align:right;
 #title .rainbowtext
 {
 font-size:2em;
+text-align:center;
 }
 
 
