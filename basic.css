@@ -165,7 +165,7 @@ width:fit-content;
 margin:auto;
 }
 
-.basic div.mybox
+.basic .mybox
 {
 box-shadow:0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
 width:100%;
@@ -175,7 +175,7 @@ box-sizing:border-box;
 display:block;
 }
 
-.basic div.transbox
+.basic .transbox
 {
 background:linear-gradient(to bottom, rgba(230,230,250,0.6),rgba(230,230,250,0.3));
 box-shadow:0 0 10px rgba(100,149,237,0.5);
@@ -199,7 +199,7 @@ background:linear-gradient(to bottom, rgba(245,245,245,0.8),rgba(220,220,220,0.8
 cursor:pointer;
 }
 
-.basic div.mycard
+.basic .mycard
 {
 background-color:white;
 box-shadow:0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
@@ -209,7 +209,7 @@ width:fit-content;
 box-sizing:border-box;
 text-align:center;
 }
-.basic div.cardinfo
+.basic .cardinfo
 {
 background:linear-gradient(to bottom, Orchid, MediumOrchid, DarkOrchid);
 border:1px solid white;
@@ -226,7 +226,7 @@ font-weight:inherit;
 
 
 
-.animated a
+.basic a
 {
 color:inherit;
 text-decoration:none;
