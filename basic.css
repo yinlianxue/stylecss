@@ -14,6 +14,7 @@ overflow:visible;
 }
 
 
+/**标题格式**/
 .basic .act
 {
 font-size:2em;
@@ -35,8 +36,6 @@ font-size:1.2em;
 font-family:KaiTi,"Microsoft YaHei",Simsun,sans-serif;
 color:red;
 }
-
-
 .basic .vip
 {
 color:red;
