@@ -34,14 +34,6 @@ display:block;
 font-size:1.2em;
 font-family:KaiTi,"Microsoft YaHei",Simsun,sans-serif;
 color:red;
-display:block;
-}
-.basic .sys3
-{
-font-size:1.2em;
-font-family:KaiTi,"Microsoft YaHei",Simsun,sans-serif;
-color:red;
-display:inline-block;
 }
 
 
@@ -67,6 +59,14 @@ color:silver;
 }
 
 
+.basic .block
+{
+display:block;
+}
+.basic .inline
+{
+display:inline-block;
+}
 .basic .origin
 {
 max-width:100%;
