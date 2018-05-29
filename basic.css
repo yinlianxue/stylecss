@@ -145,27 +145,27 @@
 	align-items:center;
 }
 
-.mygrid .grid2 {
+.grid2 {
 	grid-template-columns:repeat(2,1fr);
 }
 
-.mygrid .grid3 {
+.grid3 {
 	grid-template-columns:repeat(3,1fr);
 }
 
-.mygrid .grid4 {
+.grid4 {
 	grid-template-columns:repeat(4,1fr);
 }
 
-.mygrid .grid5 {
+.grid5 {
 	grid-template-columns:repeat(5,1fr);
 }
 
-.mygrid .grid6 {
+.grid6 {
 	grid-template-columns:repeat(6,1fr);
 }
 
-.mygrid .grid7 {
+.grid7 {
 	grid-template-columns:repeat(7,1fr);
 }
 
@@ -444,4 +444,3 @@
 .basic .mycard:hover {
 	font-weight:inherit;
 }
-
