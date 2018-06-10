@@ -292,8 +292,8 @@
 
 
 /**宣传链接**/
-a {
-  color:inherit !important;
+.basic a {
+  color:inherit;
 }
 
 .link {
