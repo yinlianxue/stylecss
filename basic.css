@@ -293,6 +293,9 @@
 
 
 /**宣传链接**/
+a {
+  color:inherit;
+}
 
 .link {
   font-weight: bold;
