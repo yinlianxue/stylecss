@@ -64,7 +64,6 @@
 
 .basic .small {
   font-size: 0.9em;
-  font-weight: lighter;
 }
 
 .basic .big {
@@ -294,7 +293,7 @@
 
 /**宣传链接**/
 a {
-  color:inherit;
+  color:inherit !important;
 }
 
 .link {
