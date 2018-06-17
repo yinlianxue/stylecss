@@ -461,9 +461,7 @@
 .basic .pkmnum {
   background-color: gray;
   border: 1px solid black;
-  border-radius: 50%;
-  width: 150%;
-  height: 150%;
+  border-radius: 1em;
   font-size: inherit;
   font-weight: inherit;
   padding: 0.2em 0.7em;
