@@ -48,25 +48,28 @@
 
 .basic .vip {
   color: red;
+  font-family: Helvetica, Tahoma, Arial, STKaiTi, FangSong, "Microsoft YaHei", Simsun, sans-serif;
 }
 
 .basic .info {
   color: blue;
+  font-family: Helvetica, Tahoma, Arial, STKaiTi, FangSong, "Microsoft YaHei", Simsun, sans-serif;
 }
 
 .basic .bonus {
   color: orange;
+  font-family: Helvetica, Tahoma, Arial, STKaiTi, FangSong, "Microsoft YaHei", Simsun, sans-serif;
 }
 
 .basic .detail {
   color: gray;
-  font-family: Helvetica, Tahoma, Arial, FangSong, Simsun, sans-serif;
+  font-family: Helvetica, Tahoma, Arial, STKaiTi, FangSong, "Microsoft YaHei", Simsun, sans-serif;
 }
 
 .basic .adds {
   color: silver;
-  font-family: Helvetica, Tahoma, Arial, FangSong, Simsun, sans-serif;
-  font-size: .8em;
+  font-family: Helvetica, Tahoma, Arial, STKaiTi, FangSong, "Microsoft YaHei", Simsun, sans-serif;
+  font-size: .9em;
 }
 
 .basic .small {
