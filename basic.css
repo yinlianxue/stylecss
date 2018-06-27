@@ -60,13 +60,12 @@
 
 .basic .detail {
   color: gray;
-  font-family: Helvetica, Tahoma, Arial, STKaiTi, FangSong, "Microsoft YaHei", Simsun, sans-serif;
+  font-size: .875em;
 }
 
 .basic .adds {
   color: silver;
-  font-family: Helvetica, Tahoma, Arial, STKaiTi, FangSong, "Microsoft YaHei", Simsun, sans-serif;
-  font-size: .9em;
+  font-size: .8em;
 }
 
 .basic .small {
