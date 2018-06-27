@@ -60,11 +60,12 @@
 
 .basic .detail {
   color: gray;
-  font-size: .9em;
+  font-family: Helvetica, Tahoma, Arial, FangSong, Simsun, sans-serif;
 }
 
 .basic .adds {
   color: silver;
+  font-family: Helvetica, Tahoma, Arial, FangSong, Simsun, sans-serif;
   font-size: .8em;
 }
 
@@ -301,6 +302,7 @@
 /**宣传链接**/
 .basic a {
   color:inherit;
+  text-decoration: none;
 }
 
 .link {
