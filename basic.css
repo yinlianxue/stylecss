@@ -454,6 +454,13 @@
   text-shadow: 1px 1px 0.5em black;
 }
 
+.bg-medals {
+  background-image: url("http://wx1.sinaimg.cn/mw690/e69e7762gy1fqly2gb3nug206y02d0th.gif");
+  background-repeat: no-repeat;
+  background-position: 100% 100%;
+  background-origin: content-box;
+  }
+
 
 
 
